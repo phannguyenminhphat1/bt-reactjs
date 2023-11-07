@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.glass {
+    background: url("../public/glass-img/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+.header__content {
+    text-align: center;
+    background-color: #333333db;
+    padding: 16px;
+    color: white;
+}
+.listImage__content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+}
+.listImage__item {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 15px;
+    border: 2px solid red;
+    overflow: hidden;
+    position: relative;
+}
+.listImage__item img {
+    width: 100%;
+    height: 100%;
+}
+.listImage__content > .listImage__item:first-child .listImage__item-text {
+    background-color: #ffa500a8;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
+
+.listGlass__content {
+    margin-top: 30px;
+    border: 1px solid black;
+    width: 1140px;
+    height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    background: #333333ab;
+}
+.listGlass__item {
+    padding: 25px;
+}
+.listGlass__item img {
+    width: 100%;
+}
+.listImage__content > .listImage__item:first-child .listImage__item-selectedGlass {
+    position: absolute;
+    top: 77px;
+    left: 78px;
+}
+.listImage__content > .listImage__item:first-child .listImage__item-selectedGlass img {
+    width: 140px;
+}
