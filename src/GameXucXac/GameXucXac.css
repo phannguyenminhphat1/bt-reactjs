@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+@font-face {
+    font-family: "fontGame";
+    src: url(./font/Pony.ttf);
+}
+.game {
+    background-image: url("../../public/XucXac-Image/bgGame.png");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    font-family: fontGame;
+}
+.title {
+    text-align: center;
+    padding: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: white;
+    background: #333333db;
+    margin-bottom: 25px;
+}
+.game__content {
+    text-align: center;
+    margin-top: 100px;
+}
+.btnGame {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    font-size: 50px;
+    border-radius: 5px;
+}
+.XucXacImage img {
+    width: 60px;
+    height: 60px;
+    margin: 0 5px;
+}
+.thongTinTroChoi {
+    color: #333;
+}
+.btnPlayGame {
+    padding: 25px;
+    margin-top: 15px;
+}

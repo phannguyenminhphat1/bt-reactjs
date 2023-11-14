@@ -1,8 +1,11 @@
 import "./App.css";
-import Alo from "./BaiTapXemTRuoc/alo";
-
+import GameXucXac from "./GameXucXac/GameXucXac";
 function App() {
-  return <div className="App container"></div>;
+  return (
+    <div className="App">
+      <GameXucXac />
+    </div>
+  );
 }
 
 export default App;
