@@ -1,8 +1,12 @@
 import "./App.css";
-import Alo from "./BaiTapXemTRuoc/alo";
+import GameOanTuTi from "./GameOanTuTi/GameOanTuTi";
 
 function App() {
-  return <div className="App container"></div>;
+  return (
+    <div className="App container">
+      <GameOanTuTi />
+    </div>
+  );
 }
 
 export default App;
