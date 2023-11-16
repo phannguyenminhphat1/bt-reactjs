@@ -1,8 +1,12 @@
 import "./App.css";
-import Alo from "./BaiTapXemTRuoc/alo";
+import UserProfile from "./FormValidations/UserProfile";
 
 function App() {
-  return <div className="App container"></div>;
+  return (
+    <div className="App">
+      <UserProfile />
+    </div>
+  );
 }
 
 export default App;
