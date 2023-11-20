@@ -1,8 +1,12 @@
 import "./App.css";
-import Alo from "./BaiTapXemTRuoc/alo";
+import DemoUseDispatch from "./DemoUseDispatch/DemoUseDispatch";
 
 function App() {
-  return <div className="App container"></div>;
+  return (
+    <div className="App">
+      <DemoUseDispatch />
+    </div>
+  );
 }
 
 export default App;
