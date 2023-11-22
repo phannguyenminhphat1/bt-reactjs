@@ -1,5 +1,5 @@
 import "./App.css";
-import UserProfile from "./FormValidations/UserProfile";
+import UserProfile from "./FormValidations/UserProfile/UserProfile";
 
 function App() {
   return (
