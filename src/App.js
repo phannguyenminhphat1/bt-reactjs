@@ -1,8 +1,12 @@
 import "./App.css";
-import Alo from "./BaiTapXemTRuoc/alo";
+import DatVeXemPhim from "./DatVeXemPhim/DatVeXemPhim";
 
 function App() {
-  return <div className="App container"></div>;
+  return (
+    <div className="App">
+      <DatVeXemPhim />
+    </div>
+  );
 }
 
 export default App;
