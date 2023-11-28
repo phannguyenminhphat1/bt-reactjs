@@ -1,8 +1,12 @@
 import "./App.css";
-import Alo from "./BaiTapXemTRuoc/alo";
+import BaiTapValidateForm from "./BaiTapValidateForm/BaiTapValidateForm";
 
 function App() {
-  return <div className="App container"></div>;
+  return (
+    <div className="App">
+      <BaiTapValidateForm />
+    </div>
+  );
 }
 
 export default App;
