@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "name": "Ghế A1",
+        "price": 10,
+        "isBooket": false
+    },
+    {
+        "id": 2,
+        "name": "Ghế A2",
+        "price": 15,
+        "isBooket": true
+    },
+    {
+        "id": 3,
+        "name": "Ghế A3",
+        "price": 20,
+        "isBooket": false
+    },
+    {
+        "id": 4,
+        "name": "Ghế A4",
+        "price": 25,
+        "isBooket": true
+    },
+    {
+        "id": 5,
+        "name": "Ghế A5",
+        "price": 30,
+        "isBooket": false
+    },
+    {
+        "id": 6,
+        "name": "Ghế A6",
+        "price": 35,
+        "isBooket": true
+    },
+    {
+        "id": 7,
+        "name": "Ghế A7",
+        "price": 40,
+        "isBooket": false
+    },
+    {
+        "id": 8,
+        "name": "Ghế A8",
+        "price": 45,
+        "isBooket": true
+    },
+    {
+        "id": 9,
+        "name": "Ghế A9",
+        "price": 50,
+        "isBooket": false
+    },
+    {
+        "id": 10,
+        "name": "Ghế A10",
+        "price": 55,
+        "isBooket": true
+    },
+    {
+        "id": 11,
+        "name": "Ghế A11",
+        "price": 60,
+        "isBooket": false
+    },
+    {
+        "id": 12,
+        "name": "Ghế A12",
+        "price": 65,
+        "isBooket": true
+    },
+    {
+        "id": 13,
+        "name": "Ghế A13",
+        "price": 70,
+        "isBooket": false
+    },
+    {
+        "id": 14,
+        "name": "Ghế A14",
+        "price": 75,
+        "isBooket": true
+    },
+    {
+        "id": 15,
+        "name": "Ghế A15",
+        "price": 80,
+        "isBooket": false
+    },
+    {
+        "id": 16,
+        "name": "Ghế A16",
+        "price": 85,
+        "isBooket": true
+    },
+    {
+        "id": 17,
+        "name": "Ghế A17",
+        "price": 90,
+        "isBooket": false
+    },
+    {
+        "id": 18,
+        "name": "Ghế A18",
+        "price": 95,
+        "isBooket": true
+    },
+    {
+        "id": 19,
+        "name": "Ghế A19",
+        "price": 100,
+        "isBooket": false
+    },
+    {
+        "id": 20,
+        "name": "Ghế A20",
+        "price": 105,
+        "isBooket": true
+    },
+    {
+        "id": 21,
+        "name": "Ghế A21",
+        "price": 110,
+        "isBooket": false
+    },
+    {
+        "id": 22,
+        "name": "Ghế A22",
+        "price": 115,
+        "isBooket": true
+    },
+    {
+        "id": 23,
+        "name": "Ghế A23",
+        "price": 120,
+        "isBooket": false
+    },
+    {
+        "id": 24,
+        "name": "Ghế A24",
+        "price": 125,
+        "isBooket": true
+    },
+    {
+        "id": 25,
+        "name": "Ghế A25",
+        "price": 130,
+        "isBooket": false
+    },
+    {
+        "id": 26,
+        "name": "Ghế A26",
+        "price": 135,
+        "isBooket": true
+    },
+    {
+        "id": 27,
+        "name": "Ghế A27",
+        "price": 140,
+        "isBooket": false
+    },
+    {
+        "id": 28,
+        "name": "Ghế A28",
+        "price": 145,
+        "isBooket": true
+    },
+    {
+        "id": 29,
+        "name": "Ghế A29",
+        "price": 150,
+        "isBooket": false
+    },
+    {
+        "id": 30,
+        "name": "Ghế A30",
+        "price": 155,
+        "isBooket": true
+    },
+    {
+        "id": 31,
+        "name": "Ghế A31",
+        "price": 160,
+        "isBooket": false
+    },
+    {
+        "id": 32,
+        "name": "Ghế A32",
+        "price": 165,
+        "isBooket": true
+    },
+    {
+        "id": 33,
+        "name": "Ghế A33",
+        "price": 170,
+        "isBooket": false
+    },
+    {
+        "id": 34,
+        "name": "Ghế A34",
+        "price": 175,
+        "isBooket": true
+    },
+    {
+        "id": 35,
+        "name": "Ghế A35",
+        "price": 180,
+        "isBooket": false
+    },
+    {
+        "id": 36,
+        "name": "Ghế A36",
+        "price": 185,
+        "isBooket": true
+    },
+    {
+        "id": 37,
+        "name": "Ghế A37",
+        "price": 190,
+        "isBooket": false
+    },
+    {
+        "id": 38,
+        "name": "Ghế A38",
+        "price": 195,
+        "isBooket": true
+    },
+    {
+        "id": 39,
+        "name": "Ghế A39",
+        "price": 200,
+        "isBooket": false
+    },
+    {
+        "id": 40,
+        "name": "Ghế A40",
+        "price": 205,
+        "isBooket": true
+    },
+    {
+        "id": 41,
+        "name": "Ghế A41",
+        "price": 210,
+        "isBooket": false
+    },
+    {
+        "id": 42,
+        "name": "Ghế A42",
+        "price": 215,
+        "isBooket": true
+    },
+    {
+        "id": 43,
+        "name": "Ghế A43",
+        "price": 220,
+        "isBooket": false
+    },
+    {
+        "id": 44,
+        "name": "Ghế A44",
+        "price": 225,
+        "isBooket": true
+    },
+    {
+        "id": 45,
+        "name": "Ghế A45",
+        "price": 230,
+        "isBooket": false
+    },
+    {
+        "id": 46,
+        "name": "Ghế A46",
+        "price": 235,
+        "isBooket": true
+    },
+    {
+        "id": 47,
+        "name": "Ghế A47",
+        "price": 240,
+        "isBooket": false
+    },
+    {
+        "id": 48,
+        "name": "Ghế A48",
+        "price": 245,
+        "isBooket": true
+    },
+    {
+        "id": 49,
+        "name": "Ghế A49",
+        "price": 250,
+        "isBooket": false
+    },
+    {
+        "id": 50,
+        "name": "Ghế A50",
+        "price": 255,
+        "isBooket": true
+    },{
+        "id": 51,
+        "name": "Ghế A51",
+        "price": 123,
+        "isBooket": false
+    },
+    {
+        "id": 52,
+        "name": "Ghế A52",
+        "price": 321,
+        "isBooket": true
+    }
+
+]
